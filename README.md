@@ -12,10 +12,10 @@ This repository contains my step-by-step implementations and experiments followi
 - **`MLP.ipynb`**  -**`Done`**
   *Multilayer Perceptron (MLP):* Implementing the architecture based on Bengio et al. (2003).
 
-- **`MLP2.ipynb`**  -**`Working`**
+- **`MLP2.ipynb`**  -**`Done`**
   *Activations & Batch Normalization:* Deep dive into initialization, vanishing/exploding gradients, and BatchNorm layers.
 
-- **`xyz.ipynb`**  
+- **`xyz.ipynb`**  -**`Working`**
   *Manual Backpropagation:* Manually deriving and writing backward passes without relying on PyTorch's autograd.
 
 - **`xyz.ipynb`**  
