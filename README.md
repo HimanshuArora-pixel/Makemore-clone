@@ -1,0 +1,24 @@
+# Makemore Implementation Series
+
+This repository contains my step-by-step implementations and experiments following Andrej Karpathy's **makemore** series. The goal is to build character-level language models of increasing complexity from scratch using PyTorch.
+
+---
+
+## 📂 Project Structure & Roadmap
+
+- **`bigram.ipynb`**  
+  *Bigram Language Model:* Frequency counting and a single-layer neural network approach.
+
+- **`mlp.ipynb`**  
+  *Multilayer Perceptron (MLP):* Implementing the architecture based on Bengio et al. (2003).
+
+- **`batchnorm.ipynb`**  
+  *Activations & Batch Normalization:* Deep dive into initialization, vanishing/exploding gradients, and BatchNorm layers.
+
+- **`backprop.ipynb`**  
+  *Manual Backpropagation:* Manually deriving and writing backward passes without relying on PyTorch's autograd.
+
+- **`wavenet.ipynb`**  
+  *WaveNet / CNN:* Building a hierarchical neural network architecture for improved temporal modeling.
+
+---
