@@ -15,10 +15,10 @@ This repository contains my step-by-step implementations and experiments followi
 - **`MLP2.ipynb`**  -**`Done`**
   *Activations & Batch Normalization:* Deep dive into initialization, vanishing/exploding gradients, and BatchNorm layers.
 
-- **`xyz.ipynb`**  -**`Working`**
+- **`MLP_with_backprop_scratch.ipynb`**  -**`Done`**
   *Manual Backpropagation:* Manually deriving and writing backward passes without relying on PyTorch's autograd.
 
-- **`xyz.ipynb`**  
+- **`xyz.ipynb`**  -**`Working`**
   *WaveNet / CNN:* Building a hierarchical neural network architecture for improved temporal modeling.
 
 ---
